@@ -1,5 +1,5 @@
 # Metric scores 
-This repository contains metric scores for "[Beyond neural scaling laws: beating power law scaling via data pruning](openreview.net/forum?id=UmvSlP-PyV)" (NeurIPS 2022 Outstanding Paper Award) by Sorscher, Geirhos, Shekhar, Ganguli, & Morcos.
+This repository contains metric scores for "[Beyond neural scaling laws: beating power law scaling via data pruning](openreview.net/forum?id=UmvSlP-PyV)" (NeurIPS 2022 Outstanding Paper Award) by Sorscher*, Geirhos*, Shekhar, Ganguli, & Morcos.
 
 Here is a list of metrics and corresponding papers:
 * self-supervised prototypes, supervised prototypes: based on [Sorscher, Geirhos et al. 2022](openreview.net/forum?id=UmvSlP-PyV)
